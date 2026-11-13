@@ -1,0 +1,25 @@
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Generated reports and exports
+customer_summary.json
+metrics.json
+transactions.json
+customers_export.csv
+customers_export.json
+
+# Customer data - review before sharing
+customers.csv
+transactions.csv
